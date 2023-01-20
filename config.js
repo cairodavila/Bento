@@ -11,22 +11,22 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'cairo',
+	name: 'cairo!',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'good morning!',
+	greetingMorning: 'good morning,',
 	greetingAfternoon: 'good afternoon,',
 	greetingEvening: 'good evening,',
-	greetingNight: 'go to sleep!',
+	greetingNight: 'go to sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '7f5a139dc4cf847e2e6c90b66cd49de0', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'FirefoxView',
+			icon: 'monitor-smartphone',
+			link: 'about:firefoxview',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'OpenAI',
+			icon: 'text-cursor',
+			link: 'https://chat.openai.com/chat',
 		},
 		{
 			id: '4',
@@ -83,16 +83,16 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
+			name: 'Spotify',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
 		},
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'spotify',
+					link: 'https://open.spotify.com/collection/tracks',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'lastFM',
+					link: 'https://last.fm',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hashnode',
+					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pocket',
+					link: 'https://www.pocket.com',
 				},
 			],
 		},
@@ -161,11 +161,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'map',
+					name: 'osm',
 					link: 'https://www.openstreetmap.org/',
 				},
 				{
-					name: 'link',
+					name: 'beacons',
 					link: 'https://www.beacons.ai',
 				},
 				{
