@@ -12,8 +12,8 @@ const CONFIG = {
 
 	// General
 	name: 'cairo!',
-	imageBackground: false,
-	openInNewTab: true,
+	imageBackground: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
@@ -31,7 +31,7 @@ const CONFIG = {
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '-3.7408',
 	defaultLongitude: '-38.5198',
 
