@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'cairo!',
 	imageBackground: true,
 	openInNewTab: false,
-	twelveHourFormat: true,
+	twelveHourFormat: false,
 
 	// Greetings
 	greetingMorning: 'good morning,',
