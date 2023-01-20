@@ -147,12 +147,12 @@ const CONFIG = {
 					link: 'https://last.fm',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'netflix',
+					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'soundcloud',
+					link: 'https://www.soundcloud.com/cairodavila/',
 				},
 			],
 		},
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.beacons.ai',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'zap',
+					link: 'https://web.whatsapp.com/',
 				},
 				{
 					name: 'Slack',
