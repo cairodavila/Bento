@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'FirefoxView',
+			name: 'BrandNew',
 			icon: 'monitor-smartphone',
-			link: 'about:firefoxview',
+			link: 'https://www.underconsideration.com/brandnew/',
 		},
 		{
 			id: '2',
