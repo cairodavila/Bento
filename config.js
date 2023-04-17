@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'FirefoxView',
+			name: 'AIKA',
 			icon: 'monitor-smartphone',
-			link: 'about:firefoxview',
+			link: 'http://192.168.1.65:8080/',
 		},
 		{
 			id: '2',
