@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'AIKA',
 			icon: 'monitor-smartphone',
-			link: 'http://192.168.1.65:8080/',
+			link: 'https://aika.koik.io/',
 		},
 		{
 			id: '2',
